@@ -13,10 +13,10 @@ function nationverify_info()
 	return array(
 		"name"			=> "NationStates Nation Verfication",
 		"description"	=> "Utilize the NationStates API to verify that a user is the real owner of an associated nation.",
-		"website"		=> "http://github.com/hierocles/mybb_nationverify",
-		"author"		=> "Dylan/Glen-Rhodes",
+		"website"		=> "http://github.com/hierocles/nationverify",
+		"author"		=> "Dylan H",
 		"authorsite"	=> "http://github.com/hierocles",
-		"version"		=> "1.0",
+		"version"		=> "1.0.0",
 		"compatibility" => "18*"
 	);
 }
